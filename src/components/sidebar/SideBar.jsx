@@ -10,6 +10,12 @@ const SideBar = () => {
           Sh<span>o</span>ps
         </span>
       </div>
+      <div className="sideBar_menu">
+        <div className="menu_item">
+          <div>Icon</div>
+          <span>Dashboard</span>
+        </div>
+      </div>
     </div>
   );
 };

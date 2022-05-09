@@ -24,3 +24,14 @@
 .sideBar_logo > span > span {
   color: var(--pink);
 }
+.sideBar_menu {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.menu_item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
